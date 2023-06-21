@@ -1,4 +1,4 @@
-import{h as M,E as p,i as _,M as E,j as B,k as G,m as L,n as P,o as S,b as Z,q as ee,t as te,e as v}from"./index-937b58bc.js";import{g as A,M as I,a as re,c as O,f as ne,S as T,B as se,G as U,R as ie,b as w,d as oe,s as ae,e as ue,h as de,i as ce}from"./SystemManager-a939e6ab.js";var C=`struct GlobalUniforms {
+import{h as M,E as p,i as _,M as E,j as B,k as G,m as L,n as P,o as S,b as Z,q as ee,t as te,e as v}from"./index-a00422df.js";import{g as A,M as I,a as re,c as O,f as ne,S as T,B as se,G as U,R as ie,b as w,d as oe,s as ae,e as ue,h as de,i as ce}from"./SystemManager-bdd10d10.js";var C=`struct GlobalUniforms {
   projectionMatrix:mat3x3<f32>,
   worldTransformMatrix:mat3x3<f32>,
   worldAlpha: f32
